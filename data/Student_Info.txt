@@ -1,0 +1,15 @@
+Full Name,Student Identifier,Entrance Year,Birthday,Place Of Birth,Major
+Pham Hoang Phuc,1752426,2017,19/2/1999,An Giang,Mechanical Engineering
+Nguyen The Bao,1752092,2017,9/11/1999,Tien Giang,Mechanical Engineering
+Tran Minh Hieu,1752200,2017,14/5/1999,Soc Trang,Mechanical Engineering
+Pham Hoang Son,1752474,2017,8/7/1999,Bac Lieu,Mechanical Engineering
+Phan Dinh Tu,1652676,2016,9/5/1998,Tra Vinh,Mechanical Engineering
+Tu Gia Lac,1652337,2016,13/11/1998,Soc Trang,Mechanical Engineering
+Tran Huu Kien,1652331,2016,8/9/1998,Long An,Mechanical Engineering
+Duong Nguyen Hoang Long,1652349,2016,8/11/1998,Hau Giang,Mechanical Engineering
+Tran Dang Khoa,1652754,2016,14/4/1998,Can Tho,Mechanical Engineering
+Pham Ngoc Bao Thu,1752524,2017,24/5/1999,Bac Lieu,Mechanical Engineering
+Tran Quoc Anh,1752082,2017,7/4/1999,Tra Vinh,Mechanical Engineering
+Ngo Dang Tung,1652682,2016,12/9/1998,Tra Vinh,Mechanical Engineering
+Nguyen Tuan Anh,1650113,2016,16/9/1998,Can Tho,Mechanical Engineering
+Tang Gia Lac,1752027,2017,28/6/1999,Long An,Mechanical Engineering

@@ -1,0 +1,7 @@
+bin/
+obj/
+data/unused
+*.cbp
+*.depend
+*.layout
+.vscode/
