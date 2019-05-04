@@ -4,4 +4,5 @@ data/unused
 *.cbp
 *.depend
 *.layout
+*.exe
 .vscode/
