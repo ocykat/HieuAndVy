@@ -61,7 +61,7 @@ int is_general_subject(char* subject_id, struct Subject subjects[], int num_subj
     {
         if (strcmp(subject_id, subjects[i].id) == 0)
         {
-            if (strcmp(subjects[i].type, "general"))
+            if (strcmp(subjects[i].type, "general") == 0)
             {
                 return 1;
             }
