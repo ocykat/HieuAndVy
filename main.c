@@ -164,6 +164,7 @@ int main()
                     }
 
                     print_student(students[highest_score_index]);
+                    printf("== Average Mark: %.2f\n", highest_score);
                 }
                 else if (strcmp(choice, "b") == 0)
                 {
@@ -184,6 +185,7 @@ int main()
                     }
 
                     print_student(students[lowest_score_index]);
+                    printf("== Average Mark: %.2f\n", highest_score);
                 }
                 else
                 {
