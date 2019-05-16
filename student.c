@@ -78,7 +78,7 @@ int calc_total_credits(char* student_id, struct Mark marks[], int num_marks, str
 
     for (int i = 0; i < num_marks; i++)
     {
-        if (strcmp(marks[i].student_id, student_id) == 0)
+        if (marks[i].mark >= 5 && strcmp(marks[i].student_id, student_id) == 0)
         {
             int credits = get_num_credits(marks[i].subject_id, subjects, num_subjects);
             sum_credits += credits;
@@ -94,7 +94,7 @@ int calc_general_credits(char* student_id, struct Mark marks[], int num_marks, s
 
     for (int i = 0; i < num_marks; i++)
     {
-        if (strcmp(marks[i].student_id, student_id) == 0 && is_general_subject(marks[i].subject_id, subjects, num_subjects))
+        if (marks[i].mark >= 5 && strcmp(marks[i].student_id, student_id) == 0 && is_general_subject(marks[i].subject_id, subjects, num_subjects))
         {
             sum_credits += get_num_credits(marks[i].subject_id, subjects, num_subjects);
         }
