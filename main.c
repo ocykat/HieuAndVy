@@ -185,7 +185,7 @@ int main()
                     }
 
                     print_student(students[lowest_score_index]);
-                    printf("== Average Mark: %.2f\n", highest_score);
+                    printf("== Average Mark: %.2f\n", lowest_score);
                 }
                 else
                 {
